@@ -18,8 +18,10 @@ import shutil
 # copy files from testing room folders to raw data, rename files to include
 # testing room letter in the filename
 #
+from shutil import copyfile
 testingrooms = ['A','B','C']
 for room in testingrooms:
+  copyfile('ps2-atruuvert/testingroomA/
 ...
 
 
