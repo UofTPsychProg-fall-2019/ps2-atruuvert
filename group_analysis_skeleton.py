@@ -21,7 +21,7 @@ import shutil
 from shutil import copyfile
 testingrooms = ['A','B','C']
 for room in testingrooms:
-  copyfile('ps2-atruuvert/testingroomA/
+
 ...
 
 
